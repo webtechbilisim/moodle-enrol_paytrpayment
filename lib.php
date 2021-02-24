@@ -33,7 +33,7 @@ class enrol_paytrpayment_plugin extends enrol_plugin
      */
     public function get_currencies()
     {
-        $codes = array("TRY", "EUR", "USD", "GBP");
+        $codes = array("TRY", "EUR", "USD", "GBP", "RUB");
         $currencies = array();
         foreach ($codes as $c) {
             $currencies[$c] = new lang_string($c, 'core_currencies');

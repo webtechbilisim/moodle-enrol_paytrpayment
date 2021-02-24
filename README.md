@@ -5,8 +5,8 @@ A plugin for [Moodle LMS](https://moodle.org) to use PayTR payments for course e
 
 ### Features
 
-  - Set up paid courses with iyzico payments
-  - Currency support (TRY, USD, EUR)
+  - Set up paid courses with PayTR payments
+  - Currency support (TR (or TRY), EUR, USD, GBP, RUB)
   - Limit max enrolled users
   - Default price and role settings
   - Enrollment duration limit option

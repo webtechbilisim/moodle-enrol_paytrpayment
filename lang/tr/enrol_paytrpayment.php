@@ -18,7 +18,7 @@
 /**
  *
  * @package    enrol_paytrpayment
- * @copyright  2021 Antandros Teknoloji
+ * @copyright  2021 WebTech Bilişim
  * @license    http://www.gnu.org/licenses/agpl-3.0.html GNU AGPL v3 or later
  */
 

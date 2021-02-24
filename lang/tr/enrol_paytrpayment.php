@@ -76,7 +76,7 @@ $string['messageprovider:paytr_enrolment'] = 'PayTR kayıt mesajları';
 $string['newcost'] = 'Yeni ücret';
 $string['nocost'] = 'Bu derse kaydolmak için belirlenmiş bir ücret yok.';
 $string['pluginname'] = 'PayTR Ödeme';
-$string['pluginname_desc'] = 'iyzipay modülü ücretli dersler sunmanızı sağlar. Eğer herhangi bir ders ücretsiz ise, öğrencilerden giriş için ödeme talep edilmez. Tüm site çapında varsayılan olarak belirleyebileceğiniz bir ücret ayarı olduğu gibi her ders için tek tek ücret belirleyebileceğiniz bir ayar da mevcuttur. Ders ücreti site çapındaki ücreti devre dışı bırakır.';
+$string['pluginname_desc'] = 'PayTR ödeme modülü ücretli dersler sunmanızı sağlar. Eğer herhangi bir ders ücretsiz ise, öğrencilerden giriş için ödeme talep edilmez. Tüm site çapında varsayılan olarak belirleyebileceğiniz bir ücret ayarı olduğu gibi her ders için tek tek ücret belirleyebileceğiniz bir ayar da mevcuttur. Ders ücreti site çapındaki ücreti devre dışı bırakır.';
 
 $string['sandboxmode'] = 'PayTR deneme modu';
 $string['sandboxmode_desc'] = 'Hata ayıklama ve test için PayTR deneme modunu kullanın';

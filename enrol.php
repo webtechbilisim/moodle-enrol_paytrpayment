@@ -67,10 +67,8 @@ $paytr = new PayTr();
 	  $paytr->setAddress($USER->address . " " . $USER->city . " " . $USER->country);  
   }               
   // Create Basket
-  $Basket = array (
-    "name"     => $coursefullname,
-    "price"    => $cost,
-    "currency" => $instance->currency
+  $Basket = array(
+     array($coursefullname, $cost, 1), 
   );
   $paytr->setBasket($Basket);  
   $paytr->setCurrency($instance->currency);

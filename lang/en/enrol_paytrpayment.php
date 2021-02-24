@@ -19,7 +19,7 @@
  *
  * @package    enrol_paytrpayment
  * @copyright  2019 Dualcube Team
- * @copyright  2021 Made by Sense
+ * @copyright  2021 WebTech Bilişim
  * @license    http://www.gnu.org/licenses/agpl-3.0.html GNU AGPL v3 or later
  */
 

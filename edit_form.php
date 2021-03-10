@@ -49,6 +49,7 @@ class enrol_paytrpayment_edit_form extends moodleform
 
         $mform->addElement('text', 'name', get_string('custominstancename', 'enrol'));
         $mform->setType('name', PARAM_TEXT);
+        $mform->setType('cost', PARAM_RAW);
 
         $options = array(
             ENROL_INSTANCE_ENABLED  => get_string('yes'),
